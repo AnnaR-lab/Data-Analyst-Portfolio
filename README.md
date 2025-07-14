@@ -12,7 +12,9 @@ In this section I share my data analysis projects.
 
 ### Practicing EDA of Chips Sales in Cyprus Peripteros using R
 This is a self-study project as part of my learning path in data analytics. The dataset is a simplified and anonymized version of retail sales from a peripteros, focused only on chips as a product category. The data was synthetic and does not contain sensitive or real company information
-#### **Code 🔗:** [Clean Data](1 Clean Data.R),  [EDA] (2 EDA.R)
+#### **Code 🔗:** 
+- 🧹 [Data Cleaning Script](1_Clean_Data.R)
+- 📊 [Exploratory Data Analysis Script](eda_chips.R)
 
 #### **Goal:** 
 To analyse sales data for chips from a small convenience stores (periptero) in Cyprus. The aim is to identify key customer segments, trends over time, and popular products.
