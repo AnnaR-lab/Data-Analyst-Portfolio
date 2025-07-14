@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-##About
+** About **
 
 Hi, I'm Anna. I'm currently studying to become a Data Analyst and exploring key tools such as Python, R, Tableau, and SQL.
 
