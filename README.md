@@ -56,4 +56,4 @@ The data was pre-processed in Google Sheets, raw coordinates were converted to d
 
 #### **Result:**
 An interactive and informative Tableau dashboard titled "Cosmic Scars: Meteor Craters of Earth", published on Tableau Public:
-🔗 [View Dashboard] (https://public.tableau.com/views/CosmicScarsMeteorCratersofEarth/CosmicScarsMeteorCratersofEarth?:language=en-GB&:sid=0D1BD2FAE6394E04ADE13A8CD017CD21-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Dashboard](https://public.tableau.com/views/CosmicScarsMeteorCratersofEarth/CosmicScarsMeteorCratersofEarth?:language=en-GB&:sid=0D1BD2FAE6394E04ADE13A8CD017CD21-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
