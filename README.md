@@ -15,7 +15,6 @@ This is a self-study project as part of my learning path in data analytics. The 
 #### **Code 🔗:** 
 - 🧹 [Data Cleaning Script](1_Clean_Data.R)
 - 📊 [Exploratory Data Analysis Script](2_EDA.R)
-
 #### **Goal:** 
 To analyse sales data for chips from a small convenience stores (periptero) in Cyprus. The aim is to identify key customer segments, trends over time, and popular products.
 #### **Description:** 
@@ -38,3 +37,23 @@ The most active customer segments in terms of volume were:
 3. Mainstream Retirees
 
 These insights can help target marketing efforts based on both budget level and lifestage group.
+
+
+### **🌍 Cosmic Scars: Meteor Craters of Earth. **
+Practicing Data Visualization with Tableau
+
+#### **Goal:** 
+To study and systematize the basic data on impact craters on Earth.
+
+#### **Description:** 
+This project visualizes meteorite impact craters around the world using publicly available geological data. Key features of the dashboard:
+- Interactive map with buffer zones representing area of impact (buffer zone scale 1:5)
+- Distribution of crater ages in geological time
+- Top craters by diameter and age
+- Visual encoding of extinction events and crater frequency by geological time
+
+The data was pre-processed in Google Sheets, raw coordinates were converted to decimal format for Tableau, geological age was matched to time periods for accurate categorization. Tableau was used to create multi-layer visualizations, spatial analysis (using BUFFER) and custom tooltips.
+
+#### **Result:**
+An interactive and informative Tableau dashboard titled "Cosmic Scars: Meteor Craters of Earth", published on Tableau Public:
+🔗 [View Dashboard] (https://public.tableau.com/views/CosmicScarsMeteorCratersofEarth/CosmicScarsMeteorCratersofEarth?:language=en-GB&:sid=0D1BD2FAE6394E04ADE13A8CD017CD21-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
